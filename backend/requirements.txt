@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+youtube-transcript-api
+httpx
+google-genai
+dotenv
